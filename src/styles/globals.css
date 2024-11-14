@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.bg-blue-600{
+    background-color: #20caab !important;
+}
